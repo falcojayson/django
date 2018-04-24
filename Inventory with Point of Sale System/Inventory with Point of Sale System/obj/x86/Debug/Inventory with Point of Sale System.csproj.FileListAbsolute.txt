@@ -71,3 +71,6 @@ C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point o
 C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\RdlCompile.cache
 C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\RdlCompile.compiled
 C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmGraphics.resources
+C:\Users\User\Desktop\Django\Inventory with Point of Sale System\Inventory with Point of Sale System\bin\Debug\Inventory with Point of Sale System.exe.config
+C:\Users\User\Desktop\Django\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory with Point of Sale System.exe
+C:\Users\User\Desktop\Django\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory with Point of Sale System.pdb

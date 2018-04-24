@@ -12,6 +12,7 @@ namespace Inventory_with_Point_of_Sale_System
 {
     public partial class frmLogIn : Form
     {
+        //commment!!!!!!!!
         SqlConnection con = new SqlConnection(@"Data Source=.\SQLEXPRESS;AttachDbFilename=C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\bin\Debug\InventoryPosDB.mdf;Integrated Security=True;Connect Timeout=30;User Instance=True");
         Point lastPoint;
 
